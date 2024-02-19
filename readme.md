@@ -1,0 +1,1 @@
+Simple maze generator with javascript and canvas
